@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 94c91cee8dd661140bd4acb89f02acda
+timeCreated: 1536321002
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: img_bullet_laser_0
+    21300002: img_bullet_laser_1
+    21300004: img_bullet_laser_2
+    21300006: img_bullet_laser_3
+    21300008: img_bullet_laser_4
+    21300010: img_bullet_laser_5
+    21300012: img_bullet_laser_6
+    21300014: img_bullet_laser_7
+    21300016: img_bullet_laser_8
+    21300018: img_bullet_laser_9
+    21300020: img_bullet_laser_10
+    21300022: img_bullet_laser_11
+    21300024: img_bullet_laser_12
+    21300026: img_bullet_laser_13
+    21300028: img_bullet_laser_14
+    21300030: img_bullet_laser_15
+    21300032: img_bullet_laser_16
+    21300034: img_bullet_laser_17
+    21300036: img_bullet_laser_18
+    21300038: img_bullet_laser_19
+    21300040: img_bullet_laser_20
+    21300042: img_bullet_laser_21
+    21300044: img_bullet_laser_22
+    21300046: img_bullet_laser_23
+    21300048: img_bullet_laser_24
+    21300050: img_bullet_laser_25
+    21300052: img_bullet_laser_26
+    21300054: img_bullet_laser_27
+    21300056: img_bullet_laser_28
+    21300058: img_bullet_laser_29
+    21300060: img_bullet_laser_30
+    21300062: img_bullet_laser_31
+    21300064: img_bullet_laser_32
+    21300066: img_bullet_laser_33
+    21300068: img_bullet_laser_34
+    21300070: img_bullet_laser_35
+    21300072: img_bullet_laser_36
+    21300074: img_bullet_laser_37
+    21300076: img_bullet_laser_38
+    21300078: img_bullet_laser_39
+    21300080: img_bullet_laser_40
+    21300082: img_bullet_laser_41
+    21300084: img_bullet_laser_42
+    21300086: img_bullet_laser_43
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_laser_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 593
+        width: 64
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 593
+        width: 64
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 593
+        width: 64
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 593
+        width: 64
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 469
+        width: 123
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 920
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 920
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 942
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 952
+        width: 118
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_9
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 952
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_10
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 952
+        width: 114
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 816
+        width: 126
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 529
+        width: 223
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 870
+        width: 120
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_14
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 880
+        width: 109
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_15
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 880
+        width: 108
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 519
+        width: 106
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 528
+        width: 83
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_18
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 808
+        width: 108
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 808
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 64
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 162
+        width: 64
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 64
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 162
+        width: 64
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_24
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 552
+        width: 96
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_25
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 552
+        width: 78
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 171
+        width: 119
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_27
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 171
+        width: 107
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 226
+        width: 98
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_29
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 236
+        width: 84
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_30
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 296
+        width: 89
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_31
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 40
+        width: 100
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 96
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 58
+        width: 128
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 66
+        width: 128
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 66
+        width: 125
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_37
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 151
+        width: 115
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 79
+        width: 122
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7
+        width: 84
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 231
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_41
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_42
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 19
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_bullet_laser_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 7
+        width: 122
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
